@@ -1,7 +1,7 @@
-![MasterHead](https://www.market-prospects.com//storage/images/671_1200x675.jpg)
+![MasterHead](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/low-code-no-code1_0.jpg?itok=VtUw2Un_)
 <h1 align="center">Hi 👋, I'm Soham Datta</h1>
 <h3 align="center">A passionate salesforce developer from India. I am 6x salesforce certified</h3>
-<img align="right" alt="Coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/low-code-no-code1_0.jpg?itok=VtUw2Un_">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/man-working-desk-with-laptop-productive-work-flat-design-generative-ai_176697-2787.jpg">
 
 - 🌱 I’m currently learning **Sales Cloud, CPQ, Experience Cloud**
 
