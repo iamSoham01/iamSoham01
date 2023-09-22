@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsoham01&show_icons=true&locale=en&layout=compact" alt="iamsoham01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsoham01&show_icons=true&locale=en" alt="iamsoham01" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsoham01&show_icons=true&locale=en" alt="iamsoham01" /></p> -->
